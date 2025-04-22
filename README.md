@@ -18,3 +18,13 @@ This is a personal cybersecurity project using the [Cowrie SSH honeypot](https:/
 
 ```bash
 python3 parse_logs.py
+
+Make sure Cowrie is running and logging before using the script.
+This project is part of my learning journey into cybersecurity, Python, and threat analysis. Follow for updates!
+
+💡 Future Ideas
+Integrate with ELK for live dashboards
+
+Add color output to parser
+
+Auto-block attackers using fail2ban
